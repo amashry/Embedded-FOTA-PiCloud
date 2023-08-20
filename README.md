@@ -17,7 +17,9 @@ Once the update process concludes, the new application activates on the target S
 
 [**Demo Video**](https://youtu.be/YTyh6CloR7g)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YTyh6CloR7g" frameborder="0" allowfullscreen></iframe>
+<a href="https://www.youtube.com/watch?v=YTyh6CloR7g">
+    <img src="assets/FOTA%20GUI.png" alt="Demo Video" width="500">
+</a>
 
 ## Components
 
@@ -29,7 +31,7 @@ Once the update process concludes, the new application activates on the target S
    - Designed with Python and Tkinter.
    - Facilitates the upload of update files to the server.
 
-        ![GUI Image](assests/FOTA%20GUI.png)
+        ![GUI Image](assets/FOTA%20GUI.png)
 
 3. **Raspberry Pi (Main MCU)**:
    - Automatically polls the database for updates.
